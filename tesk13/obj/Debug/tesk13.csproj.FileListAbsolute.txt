@@ -1,0 +1,6 @@
+C:\Users\Ekaterina\RiderProjects\tesk13\tesk13\bin\Debug\tesk13.exe
+C:\Users\Ekaterina\RiderProjects\tesk13\tesk13\bin\Debug\tesk13.pdb
+C:\Users\Ekaterina\RiderProjects\tesk13\tesk13\obj\Debug\tesk13.exe
+C:\Users\Ekaterina\RiderProjects\tesk13\tesk13\obj\Debug\tesk13.pdb
+C:\Users\Ekaterina\RiderProjects\tesk13\tesk13\obj\Debug\tesk13.csproj.AssemblyReference.cache
+C:\Users\Ekaterina\RiderProjects\tesk13\tesk13\obj\Debug\tesk13.csproj.CoreCompileInputs.cache
